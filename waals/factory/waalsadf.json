@@ -1,0 +1,9 @@
+{
+	"name": "waalsadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09af93a9-a755-4bca-b31e-cf614188d01c",
+		"tenantId": "cde3a745-671e-4c57-8871-8bb37da5d439"
+	}
+}
